@@ -16,9 +16,6 @@ The application has been deployed on Netflify - https://home-expense.netlify.app
 ### Landing Page
 <img width="959" alt="image" src="https://github.com/Amkr9955/ExpensesApp_ReactRouter/assets/112249538/c2449d93-e297-4951-ad98-401a64fe6597">
 
-### Main Budgeting Page
-<img width="959" alt="image" src="https://github.com/harshitakaushik-dev/HomeExpense/assets/112249538/3fe0670e-a809-4f2d-8ebf-7c274fb12316">
-
 ### Expense Detail
 <img width="959" alt="image" src="https://github.com/harshitakaushik-dev/HomeExpense/assets/112249538/2c2f66da-116f-490e-8622-74a04c6ce79b">
 
